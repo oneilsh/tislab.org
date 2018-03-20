@@ -2952,11 +2952,16 @@
 
 		#banner h1 {
 			font-size: 3.5em;
-			font-weight: 100;
+			font-weight: 300;
 			color: #fff;
 			line-height: 1em;
 			margin: 0 0 0.5em 0;
 			padding: 0;
+		}
+
+		#banner h2 {
+			color: #fff;
+			font-weight: 200;
 		}
 
 		#banner p {
