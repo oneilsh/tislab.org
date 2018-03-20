@@ -2207,6 +2207,10 @@
 			padding: 3em 1.5em;
 		}
 
+		.box.person a {
+			color: #bacee6;
+		}
+
 			.box.person h3 {
 				margin: 0;
 			}
