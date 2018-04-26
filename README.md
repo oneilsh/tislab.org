@@ -2,6 +2,8 @@
 
 Public-facing website for tislab.org
 
+To see the draft website, go to: https://nicolevasilevsky.github.io/tislab.org/
+
 
 ## About the Theme
 
