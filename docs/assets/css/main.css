@@ -2977,12 +2977,6 @@
 			padding: 0;
 		}
 
-		#banner .bottom-right {
-		    position: absolute;
-		    bottom: 8px;
-		    right: 16px;
-		}
-
 		#banner h2 {
 			color: #fff;
 			font-weight: 200;
