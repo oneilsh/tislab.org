@@ -1633,7 +1633,7 @@
 		}
 
 	a {
-		color: #8baab4;
+		color: #6581bc;
 		text-decoration: underline;
 	}
 
@@ -1655,7 +1655,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #8baab4;
+		color: #6581bc;
 		font-weight: 500;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
@@ -1805,7 +1805,7 @@
 		}
 
 		section.wrapper.style1, article.wrapper.style1 {
-			background: #8baab4;
+			background: #6581bc;
 			color: #fff;
 		}
 
@@ -2046,8 +2046,8 @@
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #8baab4;
-			box-shadow: 0 0 0 1px #8baab4;
+			border-color: #6581bc;
+			box-shadow: 0 0 0 1px #6581bc;
 		}
 
 	.select-wrapper {
@@ -2157,8 +2157,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #8baab4;
-			box-shadow: 0 0 0 1px #8baab4;
+			border-color: #6581bc;
+			box-shadow: 0 0 0 1px #6581bc;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2684,7 +2684,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #8baab4;
+			background-color: #6581bc;
 			color: #ffffff !important;
 		}
 
@@ -2740,7 +2740,7 @@
 	}
 
 		.subpage #header {
-			background: #8baab4;
+			background: gainsboro;
 			top: 0;
 			height: 44px;
 			line-height: 44px;
@@ -2748,7 +2748,7 @@
 		}
 
 	#header {
-		color: #8baab4;
+		color: #3752a4;
 		font-size: 20px;
 		cursor: default;
 		height: 3.25em;
@@ -2773,7 +2773,7 @@
 		}
 
 		#header .logo {
-			color: #8baab4;
+			color: #6581bc;
 			display: inline-block;
 			font-weight: 600;
 			height: inherit;
@@ -2886,7 +2886,7 @@
 		position: fixed;
 		right: 0;
 		top: 0;
-		background: #8baab4;
+		background: #6581bc;
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
@@ -2965,13 +2965,13 @@
 
 	#banner {
 		padding: 8em 0 4em 0;
-		background-image: url('../../images/org_map.png');
+		background-image: url('../../images/org_map1.png');
 		background-size: cover;
 		background-position: top;
 		xbackground-attachment: fixed;
 		background-repeat: no-repeat;
 		text-align: center;
-		xborder-top: 0.5em solid #8baab4;
+		xborder-top: 0.5em solid #6581bc;
 		opacity: 0.9;
 	}
 
