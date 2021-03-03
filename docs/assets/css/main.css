@@ -2281,7 +2281,7 @@
 			}
 
 		.image.round img {
-			border-radius: 50%;
+			border-radius: 10%;
 		}
 
 		.image.left {
